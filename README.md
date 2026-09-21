@@ -67,14 +67,4 @@ code, experiments and observations.
 
 ---
 
-## 📂 Repository Structure
 
-```text
-├── docs/          # Conceptual learning notes
-├── notebooks/     # Experiments and demonstrations
-├── src/           # Source code
-├── experiments/   # Experimental results
-├── reports/       # Progress reports
-├── ROADMAP.md     # Detailed project roadmap
-├── PROGRESS.md    # Current progress
-└── LEARNING_LOG.md # Day-to-day learning log
